@@ -4,7 +4,6 @@ This repository contains my React mini-projects:
 
 | Project | Description |
 |----------|--------------|
-| [bgChanger](./bgChanger) | Background color changer using React + Tailwind |
- more coming soon...
-
+| [bgChanger](./bgChanger) | Select colour and change background colour |
+| [passwordgenerator](./passwordGenerator) | Generates Password |
 ---
